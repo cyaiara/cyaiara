@@ -2,9 +2,9 @@
 
 
 ### recent projects:
-Conversational Market Expert --> https://building-an-ai-voice-ass-ns8gnk8.gamma.site/
-Oracle --> https://oracle-project-overview-vrk4fyd.gamma.site/
+- Conversational Market Expert ❥❥❥ https://building-an-ai-voice-ass-ns8gnk8.gamma.site/
+- Oracle ✳︎ https://oracle-project-overview-vrk4fyd.gamma.site/
 
 ### in the build:
-Geoplant --> coming🔜
+- Geoplant ❥❥❥ coming 🔜
 
