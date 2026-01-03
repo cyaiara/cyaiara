@@ -7,14 +7,14 @@
 
 
 #### RECENT PROJECTS 
-- Conversational Market Expert ❥❥❥ https://building-an-ai-voice-ass-ns8gnk8.gamma.site/
-- Oracle ✳︎ https://oracle-project-overview-vrk4fyd.gamma.site/
+- [**GeoPlant Dashboard**](https://geoplant.n4t7.com/) ✿✿❀
+- [**Conversational Market Expert**](https://building-an-ai-voice-ass-ns8gnk8.gamma.site/) ❥❥❥
+- [Oracle Project Site](https://oracle-project-overview-vrk4fyd.gamma.site/) ✳︎
 
 
 
 
-#### IN THE BUILD 
-- Geoplant ☘︎☘︎ coming 🔜
-- Lunar calendar ☾☾☾
+#### IN THE BUILD 🔜
+- Lunar calendar ☾☾ 
 
 
