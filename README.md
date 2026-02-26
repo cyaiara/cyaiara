@@ -7,7 +7,7 @@
 
 
 #### RECENT PROJECTS 
-- [**GeoPlant Dashboard**](https://geoplant.n4t7.com/) ✿✿❀
+- [**GeoPlant Dashboard**](https://docs.google.com/videos/d/1wFnyGxJmMoBOFriaUZiCNtx_TZOyIGsyXDJuk2v3iWs/edit?usp=sharing) ✿✿❀
 - [**Conversational Market Expert**](https://building-an-ai-voice-ass-ns8gnk8.gamma.site/) ❥❥❥
 - [Oracle Project Site](https://oracle-project-overview-vrk4fyd.gamma.site/) ✳︎
 
@@ -15,6 +15,8 @@
 
 
 #### IN THE BUILD 🔜
-- Lunar calendar ☾☾ 
+- Lunar calendar ☾☾
+- RAG (from Scratch) FAQ
+- 2flect App
 
 
