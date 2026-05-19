@@ -19,4 +19,5 @@
 - RAG (from Scratch) FAQ
 - 2flect App
 
+<!-- Chiara Steindl -->
 
